@@ -181,11 +181,17 @@ This data was gotten from Mr Shotayo from Digitaley Drive Academy as my final pr
 [Download Here](https://github.com/user-attachments/files/27411517/marketing_data.csv)
 
 
+
 ### CONCLUSION
 The analysis reveals a customer base that values premium products, engages across multiple channels, and responds strongly to targeted marketing. By focusing on high-performing campaigns, products, and customer segments, the business can significantly improve marketing ROI, customer retention, and overall profitability.
 This project highlights how data can be transformed into meaningful insights that drive smarter business decisions. It emphasizes not just visualization, but storytelling with data.
 
 
+### CONTACT ME
+
+🤝 Connect With Me
+If you found this project insightful or would like to collaborate:
+* LinkedIn Profile:[Click Here](https://www.linkedin.com/in/agba-esther?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 
 
