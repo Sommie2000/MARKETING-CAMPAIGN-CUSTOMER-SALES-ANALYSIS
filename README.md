@@ -86,14 +86,14 @@ DATASET SAMPLE PREVIEW:
 * Ensured proper data types and formatting for analysis.
 
 ###  DASHBOARD FEATURES
-📊 KPI Metrics
+ KPI Metrics
 - 💰 Total Revenue: 1M
 - 👥 Total Customers: 2,216
 - 🌐 Total Web Purchases: 9,053
 - 📢 Campaign Acceptance: 661
 - 💵 Average Income: 52K
  
- DASHBOARD CHARTS:
+ DASHBOARD CHARTS
     - 🍷  Product Performance Analysis (The best performing products are wines, meat products and gold)
     - 💹 Campaign Success Comparison (The most successful marketing campaign is campaign 4)
     - 📊 Income Group vs Web Purchases (The highest income group contributes the most to web purchases)
