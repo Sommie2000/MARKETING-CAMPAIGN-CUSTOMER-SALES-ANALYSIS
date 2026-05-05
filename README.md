@@ -107,7 +107,8 @@ DATASET SAMPLE PREVIEW:
 
 1. Are there Null values or outliers? How will they be handled?
    > Data Quality 
-The dataset was largely clean with minimal missing values. Outliers were retained to preserve high-value customer insights.
+- The dataset was largely clean with minimal missing values.
+- Outliers were retained to preserve high-value customer insights.
    
 
 2. What Factors Are Significantly Related to the Number of Web Purchases?
@@ -118,7 +119,7 @@ Income and cross-channel engagement are strong predictors of online purchasing b
 
 
 3. Which Marketing Campaign Was the Most Successful?
-  > Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
+  Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
 Campaign 4 resonated most effectively with customers, indicating superior messaging, targeting and structure, Campaigns with higher acceptance rates indicate stronger marketing effectiveness.
 
 
