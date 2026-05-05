@@ -82,7 +82,7 @@ DATASET SAMPLE PREVIEW:
 * Handled missing values in the Income column using median imputation.
 * Reviewed outliers in income and spending; retained them as they represent high-value customers.
 * Created derived columns:
- > Income Group (Low, Medium, High)
+  > Income Group (Low, Medium, High)
 * Ensured proper data types and formatting for analysis.
 
 ###  DASHBOARD FEATURES
