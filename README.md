@@ -94,12 +94,12 @@ DATASET SAMPLE PREVIEW:
 - 💵 Average Income: 52K
  
  DASHBOARD CHARTS:
-    * 🍷  Product Performance Analysis (The best performing products are wines, meat products and gold)
-    * 💹 Campaign Success Comparison (The most successful marketing campaign is campaign 4)
-    * 📊 Income Group vs Web Purchases (The highest income group contributes the most to web purchases)
-    * 🧑 Customer Profile Summary (Average customer profile includes; Average Age: 57 years, Average Income: 52K, Moderate spending behavior and Engages across multiple channels)
-    * 📈 Relationship between web purcahse and web visits month (Purchases peak at 6–7 visits per month and decline after that → indicates browsing without conversion)
-    * 📊 Purchase Channel Performance Analysis (Underperforming purchase channel are Deal Purchase and Catalogue Purchase)
+    - 🍷  Product Performance Analysis (The best performing products are wines, meat products and gold)
+    - 💹 Campaign Success Comparison (The most successful marketing campaign is campaign 4)
+    - 📊 Income Group vs Web Purchases (The highest income group contributes the most to web purchases)
+    - 🧑 Customer Profile Summary (Average customer profile includes; Average Age: 57 years, Average Income: 52K, Moderate spending behavior and Engages across multiple channels)
+    - 📈 Relationship between web purcahse and web visits month (Purchases peak at 6–7 visits per month and decline after that → indicates browsing without conversion)
+    - 📊 Purchase Channel Performance Analysis (Underperforming purchase channel are Deal Purchase and Catalogue Purchase)
 
 🔍 KEY QUESTIONS AND INSIGHTS 
 
