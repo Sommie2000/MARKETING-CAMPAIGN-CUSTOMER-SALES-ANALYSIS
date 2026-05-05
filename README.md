@@ -105,8 +105,8 @@ DATASET SAMPLE PREVIEW:
 
 🔍 KEY QUESTIONS AND INSIGHTS 
 
-1. Data Quality
-   > Are there Null values or outliers? How will they be handled?
+1. Are there Null values or outliers? How will they be handled?
+   > Data Quality 
 The dataset was largely clean with minimal missing values. Outliers were retained to preserve high-value customer insights.
    
 
@@ -118,12 +118,12 @@ Income and cross-channel engagement are strong predictors of online purchasing b
 
 
 3. Which Marketing Campaign Was the Most Successful?
-Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
+  > Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
 Campaign 4 resonated most effectively with customers, indicating superior messaging, targeting and structure, Campaigns with higher acceptance rates indicate stronger marketing effectiveness.
 
 
 4. What Does the Average Customer Look Like?
-The typical customer profile can be summarized as follows:
+   > The typical customer profile can be summarized as follows:
 - Average Age: 57 years
 - Average Income: 52K (Medium-to-high income earner)
 - Moderate spending behavior
