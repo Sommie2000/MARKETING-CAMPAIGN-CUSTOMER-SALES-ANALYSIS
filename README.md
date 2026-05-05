@@ -68,7 +68,7 @@ COLUMNS:
   
 
 DATASET SAMPLE PREVIEW:
-|ID	|Year_Birth	|Education|Marital_Status|Income|Kidhome|Teenhome|Dt_Customer|Recency|MntWines|MntFruits|MntMeatProducts|MntFishProducts|MntSweetProducts|MntGoldProds	|NumDealsPurchases|NumWebPurchases|NumCatalogPurchases|NumStorePurchases|NumWebVisitsMonth|AcceptedCmp3|AcceptedCmp4|AcceptedCmp5|AcceptedCmp1|AcceptedCmp2|Response	|Complain|Country|
+|ID|Year_Birth|Education|Marital_Status|Income|Kidhome|Teenhome|Dt_Customer|Recency|MntWines|MntFruits|MntMeatProducts|MntFishProducts|MntSweetProducts|MntGoldProds	|NumDealsPurchases|NumWebPurchases|NumCatalogPurchases|NumStorePurchases|NumWebVisitsMonth|AcceptedCmp3|AcceptedCmp4|AcceptedCmp5|AcceptedCmp1|AcceptedCmp2|Response	|Complain|Country|
 |---|-----------|----------|----------------|-------|-------|-----------|-----------|--------|--------|-----------|----------------|----------------|---------------|----------------|-------------------|----------------|--------------------|------------------|-----------------|--------------|--------------|------------|--------------
 |-------------|--------|----------|--------|
 |1826|1970|Graduation|Divorced|84835|0|0|6/16/2014|0|189|104|379|111|189|218|1|4|4|6|1|0|0|0|0|0|1|0|Spain|
