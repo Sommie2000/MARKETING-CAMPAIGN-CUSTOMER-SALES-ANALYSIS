@@ -101,6 +101,8 @@ DATASET SAMPLE PREVIEW:
 - 📈 Relationship between web purcahse and web visits month (Purchases peak at 6–7 visits per month and decline after that → indicates browsing without conversion)
 - 📊 Purchase Channel Performance Analysis (Underperforming purchase channel are Deal Purchase and Catalogue Purchase)
 
+  
+
 🔍 KEY QUESTIONS AND INSIGHTS 
 
 1. Data Quality
@@ -108,7 +110,7 @@ DATASET SAMPLE PREVIEW:
 The dataset was largely clean with minimal missing values. Outliers were retained to preserve high-value customer insights.
 
 2. What Factors Are Significantly Related to the Number of Web Purchases?
-Two major factors demonstrated strong relationships with web purchases:
+ > Two major factors demonstrated strong relationships with web purchases:
 - Income: Income has a strong positive relationship with web purchases. Customers in the high-income group generate the highest number of online purchases, while low-income customers contribute the least.
 - Website Visits: Website visits are strongly related to web purchases. Customers who visit the website 6–7 times per month generate the highest number of purchases. Beyond this point, purchases decline, suggesting that highly frequent visitors may need additional encouragement to convert.
 Income and cross-channel engagement are strong predictors of online purchasing behavior.
