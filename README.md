@@ -2,16 +2,14 @@
 
 ### TABLE OF CONTENT
 * [Project Overview](#project-overview)
+* [Objectives](#objectives)
 * [Tools](#tools)
 * [Dataset Overview](#dataset-overview)
 * [Data Cleaning](#data-cleaning)
-* [Data Exploration](#data-exploration)
-* [Dashboard](#dashboard)
+* [Dashboard Features](#dashboard-features)
 * [Power Bi Dashboard](#power-bi-dashboard)
-* [Key Questions And Insights](#key-questions-and-insights)
-* [Key Takeaway](#key-takeaway)
 * [Interactive Features](#interactive-features)
-* [Recommendation](#recommendation)
+* [Business Recommendation](#business-recommendation)
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
 
@@ -103,7 +101,6 @@ DATASET SAMPLE PREVIEW:
 
 
 
-
 🔍 KEY QUESTIONS AND INSIGHTS 
 
 1. Are there Null values or outliers? How will they be handled?
@@ -150,6 +147,7 @@ These categories generate the highest customer spending and purchase frequency a
  - Catalogue Purchase
 Store purchase remain the strongest channel, followed by web purchase
 Customer preference is shifting toward digital and in-store shopping experiences.
+
 
 
 ### POWER BI DASHBOARD
