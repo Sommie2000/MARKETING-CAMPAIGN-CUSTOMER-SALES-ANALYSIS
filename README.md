@@ -94,91 +94,61 @@ DATASET SAMPLE PREVIEW:
 - 💵 Average Income: 52K
  
  DASHBOARD CHARTS:
-    * 🍷  Product Performance Analysis
-    * 💹 Campaign Success Comparison
-    * 📊 Income vs Web Purchases
-    * 🧑 Customer Profile Summary
-    * Web vs Web visit Relationship
-    * Channel Performance Analysis
+    * 🍷  Product Performance Analysis (The best performing products are wines, meat products and gold)
+    * 💹 Campaign Success Comparison (The most successful marketing campaign is campaign 4)
+    * 📊 Income Group vs Web Purchases (The highest income group contributes the most to web purchases)
+    * 🧑 Customer Profile Summary (Average customer profile includes; Average Age: 57 years, Average Income: 52K, Moderate spending behavior and Engages across multiple channels)
+    * 📈 Relationship between web purcahse and web visits month (Purchases peak at 6–7 visits per month and decline after that → indicates browsing without conversion)
+    * 📊 Purchase Channel Performance Analysis (Underperforming purchase channel are Deal Purchase and Catalogue Purchase)
 
-🔍 Key Insights
+🔍 KEY QUESTIONS AND INSIGHTS 
 
 1. Data Quality
-
+   > Are there Null values or outliers? How will they be handled?
 The dataset was largely clean with minimal missing values. Outliers were retained to preserve high-value customer insights.
 
-⸻
+2. What Factors Are Significantly Related to the Number of Web Purchases?
+Two major factors demonstrated strong relationships with web purchases:
+- Income: Income has a strong positive relationship with web purchases. Customers in the high-income group generate the highest number of online purchases, while low-income customers contribute the least.
+- Website Visits: Website visits are strongly related to web purchases. Customers who visit the website 6–7 times per month generate the highest number of purchases. Beyond this point, purchases decline, suggesting that highly frequent visitors may need additional encouragement to convert.
+Income and cross-channel engagement are strong predictors of online purchasing behavior.
 
-2. Factors Influencing Web Purchases
+3. Which Marketing Campaign Was the Most Successful?
+Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
+Key Insight
+Campaign 4 resonated most effectively with customers, indicating superior messaging, targeting and structure, Campaigns with higher acceptance rates indicate stronger marketing effectiveness.
 
-* Income: High-income customers contribute the most to web purchases.
-* Website Visits:
-    * Purchases peak at 6–7 visits per month
-    * Decline after that → indicates browsing without conversion
-* Catalog Purchases:
-    * Strong relationship with web purchases → shows omnichannel behavior
 
-⸻
+4. What Does the Average Customer Look Like?
+The typical customer profile can be summarized as follows:
+- Average Age: 57 years
+- Average Income: 52K (Medium-to-high income earner)
+- Moderate spending behavior
+- Married or in a relationship
+- Shops across multiple channels
+- Responds positively to marketing campaigns
+- Prefers wine and meat products
+The average customer is middle-aged, earns a good income, is financially stable, spends consistently, actively shops online and is highly engaged across multiple purchase channels.
 
-3. Most Successful Campaign
+5. Which Products Are Performing Best?
+Product category analysis shows that the top-performing products are:
+- MntWine
+- MtnMeat Products
+- MntGold Products
+These categories generate the highest customer spending and purchase frequency annd Premium and lifestyle-oriented products dominate customer spending patterns.
 
-* One campaign significantly outperformed others in acceptance rate.
-* Indicates better targeting and messaging strategy.
+6. Which Channels Are Underperforming?
+The Underperforming channels are:
+ - Deals Purchase
+ - Catalogue Purchase
+Store purchase remain the strongest channel, followed by web purchase
+Customer preference is shifting toward digital and in-store shopping experiences.
 
-⸻
-
-4. Average Customer Profile
-
-* Average Age: 57 years
-* Average Income: 52K
-* Moderate spending behavior
-* Engages across multiple channels
-
-⸻
-
-5. Best Performing Products
-
-Top categories:
-
-* Meat Products
-* Wine
-* Premium (Gold) Products
-
-These categories drive the highest revenue.
-
-⸻
-
-6. Channel Performance
-
-* Strong performance across:
-    * Web
-    * Store
-* Lower performance observed in:
-    * Catalog channel
-
-⸻
-
-💡 Marketing ROI Perspective
-
-Although direct campaign costs were not available, ROI was evaluated using proxy metrics:
-
-* Campaign acceptance (conversion rate)
-* Revenue contribution
-* Customer purchasing behavior
 
 ### POWER BI DASHBOARD
 
 <img width="913" height="506" alt="Esther marketing campaign dashboard" src="https://github.com/user-attachments/assets/1f5c3b02-93ff-4bcb-83d7-1b809c028927" />
 
-
-
-
-Key Takeaway:
-
-* High-income customers and moderately active website visitors deliver the highest return potential.
-* Campaigns with higher acceptance rates indicate stronger marketing effectiveness.
-
-⸻
 
 📈 Business Recommendations
 
