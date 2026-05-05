@@ -102,6 +102,10 @@ DATASET SAMPLE PREVIEW:
 - 📊 Purchase Channel Performance Analysis (Underperforming purchase channel are Deal Purchase and Catalogue Purchase)
 
   
+### POWER BI DASHBOARD
+
+<img width="913" height="506" alt="Esther marketing campaign dashboard" src="https://github.com/user-attachments/assets/1f5c3b02-93ff-4bcb-83d7-1b809c028927" />
+
 
 🔍 KEY QUESTIONS AND INSIGHTS 
 
@@ -151,12 +155,18 @@ Store purchase remain the strongest channel, followed by web purchase
 Customer preference is shifting toward digital and in-store shopping experiences.
 
 
-### POWER BI DASHBOARD
+### INTERACTIVE FEATURES 
+This dashboard was designed to be fully interactive, allowing users to explore insights dynamically using slicers:
+ * Income Group
+    > Segments customers into low, medium and high income categories
+    > Helps analyse purchasing behaviour across different income levels
+    
+ * Country Slicer 
+    > Enables geographic filtering of customer data
+    > Allows comparison of campaign performance and sales trends across regions
 
-<img width="913" height="506" alt="Esther marketing campaign dashboard" src="https://github.com/user-attachments/assets/1f5c3b02-93ff-4bcb-83d7-1b809c028927" />
 
 
-📈 Business Recommendations
 
 * 🎯 Focus on high-income customer segments
 * 🔁 Retarget high-visit, low-conversion users
