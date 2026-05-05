@@ -101,11 +101,6 @@ DATASET SAMPLE PREVIEW:
 - 📈 Relationship between web purcahse and web visits month (Purchases peak at 6–7 visits per month and decline after that → indicates browsing without conversion)
 - 📊 Purchase Channel Performance Analysis (Underperforming purchase channel are Deal Purchase and Catalogue Purchase)
 
-  
-### POWER BI DASHBOARD
-
-<img width="913" height="506" alt="Esther marketing campaign dashboard" src="https://github.com/user-attachments/assets/1f5c3b02-93ff-4bcb-83d7-1b809c028927" />
-
 
 
 
@@ -155,6 +150,13 @@ These categories generate the highest customer spending and purchase frequency a
  - Catalogue Purchase
 Store purchase remain the strongest channel, followed by web purchase
 Customer preference is shifting toward digital and in-store shopping experiences.
+
+
+### POWER BI DASHBOARD
+
+<img width="913" height="506" alt="Esther marketing campaign dashboard" src="https://github.com/user-attachments/assets/1f5c3b02-93ff-4bcb-83d7-1b809c028927" />
+
+
 
 
 ### INTERACTIVE FEATURES 
