@@ -108,16 +108,17 @@ DATASET SAMPLE PREVIEW:
 1. Data Quality
    > Are there Null values or outliers? How will they be handled?
 The dataset was largely clean with minimal missing values. Outliers were retained to preserve high-value customer insights.
+   
 
 2. What Factors Are Significantly Related to the Number of Web Purchases?
- > Two major factors demonstrated strong relationships with web purchases:
+   > Two major factors demonstrated strong relationships with web purchases:
 - Income: Income has a strong positive relationship with web purchases. Customers in the high-income group generate the highest number of online purchases, while low-income customers contribute the least.
 - Website Visits: Website visits are strongly related to web purchases. Customers who visit the website 6–7 times per month generate the highest number of purchases. Beyond this point, purchases decline, suggesting that highly frequent visitors may need additional encouragement to convert.
 Income and cross-channel engagement are strong predictors of online purchasing behavior.
 
+
 3. Which Marketing Campaign Was the Most Successful?
 Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
-Key Insight
 Campaign 4 resonated most effectively with customers, indicating superior messaging, targeting and structure, Campaigns with higher acceptance rates indicate stronger marketing effectiveness.
 
 
@@ -132,15 +133,17 @@ The typical customer profile can be summarized as follows:
 - Prefers wine and meat products
 The average customer is middle-aged, earns a good income, is financially stable, spends consistently, actively shops online and is highly engaged across multiple purchase channels.
 
+
 5. Which Products Are Performing Best?
-Product category analysis shows that the top-performing products are:
+  > Product category analysis shows that the top-performing products are:
 - MntWine
 - MtnMeat Products
 - MntGold Products
 These categories generate the highest customer spending and purchase frequency annd Premium and lifestyle-oriented products dominate customer spending patterns.
 
+
 6. Which Channels Are Underperforming?
-The Underperforming channels are:
+  > The Underperforming channels are:
  - Deals Purchase
  - Catalogue Purchase
 Store purchase remain the strongest channel, followed by web purchase
