@@ -86,32 +86,20 @@ DATASET SAMPLE PREVIEW:
 * Ensured proper data types and formatting for analysis.
 
 ###  DASHBOARD FEATURES
-📊 Key Metrics
+📊 KPI Metrics
 - 💰 Total Revenue: 1M
 - 👥 Total Customers: 2,216
 - 🌐 Total Web Purchases: 9,053
 - 📢 Campaign Acceptance: 661
 - 💵 Average Income: 52K
-
-* KPI Cards:
-    * Total Revenue
-    * Total Customers
-    * Total Web Purchases
-    * Average Income
-    * Campaign Acceptance
  
-* Visuals:
-    * Product Performance Analysis
-    * Campaign Success Comparison
-    * Income vs Web Purchases
-    * Customer Profile Summary
-    * Web vs Catalog Purchase Relationship
+ DASHBOARD CHARTS:
+    * 🍷  Product Performance Analysis
+    * 💹 Campaign Success Comparison
+    * 📊 Income vs Web Purchases
+    * 🧑 Customer Profile Summary
+    * Web vs Web visit Relationship
     * Channel Performance Analysis
-* Interactive Slicers:
-    * Country
-    * Income Group
-
-⸻
 
 🔍 Key Insights
 
@@ -177,6 +165,13 @@ Although direct campaign costs were not available, ROI was evaluated using proxy
 * Campaign acceptance (conversion rate)
 * Revenue contribution
 * Customer purchasing behavior
+
+### POWER BI DASHBOARD
+
+<img width="913" height="506" alt="Esther marketing campaign dashboard" src="https://github.com/user-attachments/assets/1f5c3b02-93ff-4bcb-83d7-1b809c028927" />
+
+
+
 
 Key Takeaway:
 
