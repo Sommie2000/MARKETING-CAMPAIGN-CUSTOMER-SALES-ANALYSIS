@@ -68,9 +68,8 @@ COLUMNS:
   
 
 DATASET SAMPLE PREVIEW:
-|ID|Year_Birth|Education|Marital_Status|Income|Kidhome|Teenhome|Dt_Customer|Recency|MntWines|MntFruits|MntMeatProducts|MntFishProducts|MntSweetProducts|MntGoldProds	|NumDealsPurchases|NumWebPurchases|NumCatalogPurchases|NumStorePurchases|NumWebVisitsMonth|AcceptedCmp3|AcceptedCmp4|AcceptedCmp5|AcceptedCmp1|AcceptedCmp2|Response	|Complain|Country|
-|---|-----------|----------|----------------|-------|-------|-----------|-----------|--------|--------|-----------|----------------|----------------|---------------|----------------|-------------------|----------------|--------------------|------------------|-----------------|--------------|--------------|------------|--------------
-|-------------|--------|----------|--------|
+|ID|Year_Birth|Education|Marital_Status|Income|Kidhome|Teenhome|Dt_Customer|Recency|MntWines|MntFruits|MntMeatProducts|MntFishProducts|MntSweetProducts|MntGoldProds|NumDealsPurchases|NumWebPurchases|NumCatalogPurchases|NumStorePurchases|NumWebVisitsMonth|AcceptedCmp3|AcceptedCmp4|AcceptedCmp5|AcceptedCmp1|AcceptedCmp2|Response|Complain|Country|
+|---|---------|---------|--------------|------|-------|--------|-----------|--------|--------|--------|---------------|---------------|---------------|-------------|-----------------|---------------|-------------------|-----------------|-----------------|------------|-------------|-----------|------------|------------|--------|--------|--------|
 |1826|1970|Graduation|Divorced|84835|0|0|6/16/2014|0|189|104|379|111|189|218|1|4|4|6|1|0|0|0|0|0|1|0|Spain|
 |1|1961|Graduation|Single|57091|0|0|6/15/2014|0|464|5|64|7|0|37|1|7|3|7|5|0|0|0|0|1|1|0|Canada|
 |10476|1958|Graduation|Married|67267|0|1|5/13/2014|0|134|11|59|15|2|30|1|3|2|5|2|0|0|0|0|0|0|0|USA|
