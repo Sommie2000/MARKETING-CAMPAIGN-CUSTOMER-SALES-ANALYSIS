@@ -12,6 +12,7 @@
 * [Business Recommendation](#business-recommendation)
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
+* [Contact Me](#contact-me)
 
 
 ### PROJECT OVERVIEW
