@@ -176,6 +176,18 @@ This dashboard was designed to be fully interactive, allowing users to explore i
 * 🔗 Encourage multi-channel engagement to increase customer value and consider optimizing catalog investments or integrating catalog promotions more closely with digital channels
 
 
+### DATA SOURCE
+This data was gotten from Mr Shotayo from Digitaley Drive Academy, 
+[Get File From Here]
+
+
+
+
+
+
+
+
+
 
 
 
