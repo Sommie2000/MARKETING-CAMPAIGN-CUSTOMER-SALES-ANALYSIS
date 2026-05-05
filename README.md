@@ -34,6 +34,51 @@ The analysis was guided by the following key business questions:
 * Power Query – Data cleaning and transformation
 * DAX – Measures and calculated columns
 
+### DATASET OVERVIEW
+
+COLUMNS:
+- ID
+- Year_Birth
+- Education
+- Marital_Status
+- Income
+- Kidhome
+- Teenhome
+- Dt_Customer
+- Recency
+- MntWines
+- MntFruits
+- MntMeatProducts
+- MntFishProducts
+- MntSweetProducts
+- MntGoldProds
+- NumDealsPurchases
+- NumWebPurchases
+- NumCatalogPurchases
+- NumStorePurchases
+- NumWebVisitsMonth
+- AcceptedCmp3
+- AcceptedCmp4
+- AcceptedCmp5
+- AcceptedCmp1
+- AcceptedCmp2
+- Response
+- Complain
+- Country
+  
+
+DATASET SAMPLE PREVIEW:
+|ID	|Year_Birth	|Education	|Marital_Status	 |Income |Kidhome	|Teenhome	|Dt_Customer	|Recency	|MntWines	|MntFruits	|MntMeatProducts	|MntFishProducts	|MntSweetProducts	|MntGoldProds	|NumDealsPurchases	|NumWebPurchases	|NumCatalogPurchases	|NumStorePurchases	|NumWebVisitsMonth	|AcceptedCmp3	|AcceptedCmp4	|AcceptedCmp5	|AcceptedCmp1	|AcceptedCmp2	|Response	|Complain	|Country|
+|---|-----------|----------|----------------|-------|-------|-----------|-----------|--------|--------|-----------|----------------|----------------|---------------|----------------|-------------------|----------------|--------------------|------------------|-----------------|--------------|--------------|------------|--------------
+|-------------|--------|----------|--------|
+|1826|	1970|	Graduation|	Divorced| 84835|	0|	0	|6/16/2014	|0	|189	|104	|379	|111	|189	|218	|1	|4	|4	|6	|1	|0	|0	|0	|0	|0	|1	|0	|Spain|
+|1	|1961	|Graduation	|Single	|57091	|0	|0	|6/15/2014	|0	|464	|5	|64	|7	|0	|37	|1	|7	|3	|7	|5	|0	|0	|0	|0	|1	|1	|0	|Canada|
+|10476|	1958|	Graduation	|Married	|67267	|0	|1	|5/13/2014	|0	|134	|11	|59	|15	|2	|30	|1	|3	|2	|5	|2	|0	|0	|0	|0	|0	|0	|0	|USA|
+1386	1967	Graduation	Together	32474	1	1	5/11/2014	0	10	0	1	0	0	0	1	1	0	2	7	0	0	0	0	0	0	0	Australia
+5371	1989	Graduation	Single	21474	1	0	4/8/2014	0	6	16	24	11	0	34	2	3	1	2	7	1	0	0	0	0	1	0	Spain
+
+
+
 ### DATA CLEANING 
 * Handled missing values in the Income column using median imputation.
 * Reviewed outliers in income and spending; retained them as they represent high-value customers.
