@@ -189,9 +189,9 @@ This project highlights how data can be transformed into meaningful insights tha
 
 ### CONTACT ME
 
-🤝 Connect With Me
-If you found this project insightful or would like to collaborate:
-* LinkedIn Profile:[Click Here](https://www.linkedin.com/in/agba-esther?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+🤝 Connect Me
+   > If you found this project insightful or would like to collaborate:
+* LinkedIn Profile: [Click Here](https://www.linkedin.com/in/agba-esther?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 
 
