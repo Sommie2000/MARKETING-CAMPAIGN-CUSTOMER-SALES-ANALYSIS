@@ -119,8 +119,8 @@ Income and cross-channel engagement are strong predictors of online purchasing b
 
 
 3. Which Marketing Campaign Was the Most Successful?
-  Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
-Campaign 4 resonated most effectively with customers, indicating superior messaging, targeting and structure, Campaigns with higher acceptance rates indicate stronger marketing effectiveness.
+- Among all five campaigns, Campaign 4 recorded the highest customer acceptance rate by 24.8%, outperforming the others in total conversions.
+- Campaign 4 resonated most effectively with customers, indicating superior messaging, targeting and structure, Campaigns with higher acceptance rates indicate stronger marketing effectiveness.
 
 
 4. What Does the Average Customer Look Like?
@@ -136,7 +136,7 @@ The average customer is middle-aged, earns a good income, is financially stable,
 
 
 5. Which Products Are Performing Best?
-  > Product category analysis shows that the top-performing products are:
+   > Product category analysis shows that the top-performing products are:
 - MntWine
 - MtnMeat Products
 - MntGold Products
@@ -144,7 +144,7 @@ These categories generate the highest customer spending and purchase frequency a
 
 
 6. Which Channels Are Underperforming?
-  > The Underperforming channels are:
+   > The Underperforming channels are:
  - Deals Purchase
  - Catalogue Purchase
 Store purchase remain the strongest channel, followed by web purchase
