@@ -107,6 +107,8 @@ DATASET SAMPLE PREVIEW:
 <img width="913" height="506" alt="Esther marketing campaign dashboard" src="https://github.com/user-attachments/assets/1f5c3b02-93ff-4bcb-83d7-1b809c028927" />
 
 
+
+
 🔍 KEY QUESTIONS AND INSIGHTS 
 
 1. Are there Null values or outliers? How will they be handled?
@@ -166,12 +168,16 @@ This dashboard was designed to be fully interactive, allowing users to explore i
     > Allows comparison of campaign performance and sales trends across regions
 
 
+### BUSINESS RECOMENDATION
+* 🎯 Focus on high-income customer segments and prioritize high-income customer acquisition and retention
+* 🔁 Retarget high-visit, low-conversion users and improve conversion among frequent website visitors
+* 📢 Replicate strategies from the most successful campaign which is campaign 4
+* 🛍 Promote high-performing product categories, focus inventory and cross-selling strategies around these high-performing products
+* 🔗 Encourage multi-channel engagement to increase customer value and consider optimizing catalog investments or integrating catalog promotions more closely with digital channels
 
 
-* 🎯 Focus on high-income customer segments
-* 🔁 Retarget high-visit, low-conversion users
-* 📢 Replicate strategies from the most successful campaign
-* 🛍 Promote high-performing product categories
-* 🔗 Encourage multi-channel engagement to increase customer value
 
-⸻
+
+
+
+
