@@ -177,8 +177,8 @@ This dashboard was designed to be fully interactive, allowing users to explore i
 
 
 ### DATA SOURCE
-This data was gotten from Mr Shotayo from Digitaley Drive Academy, 
-[marketing_data.csv](https://github.com/user-attachments/files/27411517/marketing_data.csv)
+This data was gotten from Mr Shotayo from Digitaley Drive Academy as my final project wok 
+[Download Here](https://github.com/user-attachments/files/27411517/marketing_data.csv)
 
 
 
